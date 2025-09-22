@@ -30,10 +30,3 @@ This project combines **AI, finance, and scalable systems design** to make advan
 - **APIs Included** – Access live data (funding, liquidations, ETH/BTC, Solana)  
 
 ---
-
-## Quick Start  
-
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/aryanchandra2/trading-pipeline
-   cd trading-pipeline
